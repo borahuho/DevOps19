@@ -24,7 +24,7 @@ Youtube: https://youtu.be/KABnIuaA8SM
 
 ## Demo initial setup Kubernetes
 
-Youtube: 
+Youtube: https://youtu.be/FRM_lXmAS_A
 
 
 ## Installation
